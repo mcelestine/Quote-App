@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">QuoteApp</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_quote_detail">QuoteDetailActivity</string>
+    <string name="title_activity_quote_edit">QuoteEditActivity</string>
+    
+    <string name="new_quote">New Quote</string>
+    <string name="button_done">Done</string>
+    <string name="delete_quote">Delete quote</string>
+    <string name="quote_text_hint">Enter quote here</string>
+    <string name="quote_author_hint">Enter author here</string>
+
+    <string name="empty_quote_list_text">Let\'s add a new quote.</string>
+    
+
+</resources>
